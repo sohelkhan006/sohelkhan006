@@ -274,12 +274,9 @@ Engineered modular Java applications using OOP principles to improve code mainta
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sohelkhan006/sohelkhan006/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 </div>
 
-> 💡 *Snake animation requires the [snake generator GitHub Action](https://github.com/Platane/snk) to be set up on your `sohelkhan006/sohelkhan006` profile repo — it won't render until that workflow is added.*
-
+[![](https://raw.githubusercontent.com/sohelkhan006/sohelkhan006/output/github-snake-dark.svg)](https://raw.githubusercontent.com/sohelkhan006/sohelkhan006/output/github-snake-dark.svg)
 <br/>
 
 ---
