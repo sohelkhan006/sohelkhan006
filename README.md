@@ -1,24 +1,327 @@
-# 💫 About Me:
-Hi, I'm Sohel Khan 👋<br><br>Full-stack developer (React · Node.js · Java) building web apps end-to-end — from UI to API to deployment.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2e1065,100:4c1d95&height=220&section=header&text=Sohel%20Mehmood%20Khan&fontSize=42&fontColor=E9D5FF&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khansohel0604) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/x__Sohelkhan__x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohelkhan060404@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Developer;Java+%7C+React.js+%7C+Node.js+%7C+MongoDB;Clean+Architecture+%26+RESTful+API+Design;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sohelkhan006&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sohelkhan006&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sohelkhan006&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sohelkhan006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Science-Sinhgad%20Institute%20of%20Technology-6D28D9?style=flat-square&labelColor=1e1033" />
+<img src="https://img.shields.io/badge/📍-Pune,%20Maharashtra,%20India-6D28D9?style=flat-square&labelColor=1e1033" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
+
+<a href="https://soheldevportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1033" /></a>
+<a href="https://www.linkedin.com/in/khansohel0604"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1033" /></a>
+<a href="mailto:sohelkhan060404@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1033" /></a>
+<a href="https://github.com/sohelkhan006"><img src="https://img.shields.io/badge/GitHub-1e1033?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0524" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sohelkhan006&label=Profile%20Views&color=6D28D9&style=flat-square" />
+<img src="https://img.shields.io/github/followers/sohelkhan006?label=Followers&style=flat-square&color=6D28D9&labelColor=1e1033" />
+<img src="https://img.shields.io/github/stars/sohelkhan006?label=Stars&style=flat-square&color=6D28D9&labelColor=1e1033" />
+
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sohelkhan006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+```yaml
+name: Sohel Mehmood Khan
+role: Full Stack Developer
+location: Pune, Maharashtra, India
+education: B.E. Computer Science & Engineering
+focus: Scalable Web Applications | Clean Architecture | RESTful API Design
+open_to: Full-Time Software Developer Roles
+```
+
+I'm a Full Stack Developer with a strong foundation in **Data Structures**, **Object-Oriented Programming**, and **RESTful API design**. I build scalable, production-oriented web applications using **Java, React.js, Node.js, Express.js, SQL, and MongoDB**, with an emphasis on modular architecture and performance.
+
+Currently completing my B.E. in Computer Science & Engineering, I've also worked hands-on with Generative AI fundamentals through Oracle Cloud and AWS Educate certifications, and I'm actively sharpening my competitive programming and system design skills.
+
+**🎯 Open To:** Full-Time Software Developer roles (Full Stack / Backend-leaning)
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,py&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vite,netlify,vercel,oracle,aws&theme=dark" />
+
+<br/>
+
+---
+
+## 🤖 AI/ML Exposure
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Generative AI Fundamentals | Working Knowledge | Oracle Cloud Infrastructure 2025 Certified Generative AI Professional |
+| Applied Generative AI Concepts | Foundational | AWS Educate — Introduction to Generative AI |
+| Prompt-driven Application Design | Exploring | Applying GenAI concepts to real-world tooling and workflows |
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🌦️ Weather API Client</b> — Java, REST API</summary>
+<br/>
+
+Built a REST-integrated Java application to fetch real-time weather data, with a clean separation between the API layer, business logic, and JSON parsing modules — designed for stable execution under varied network and response conditions.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | Java, REST API, JSON |
+| **Scale** | Single-service console/API client application |
+| **Performance** | Structured request/response flow with modular parsing |
+| **Security** | Robust exception handling for network and parsing failures |
+| **Impact** | Reinforced clean architecture and OOP principles in a real API integration |
+| **Repository** | [WeatherApiClient](https://github.com/sohelkhan006/WeatherApiClient) |
+
+</details>
+
+<details>
+<summary><b>🧑‍💼 Employee Management System</b> — React.js, Vite</summary>
+<br/>
+
+A React + Vite based employee management interface focused on structured CRUD workflows and component-driven UI — built as a practical exercise in managing organizational data through a responsive, modular frontend.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | React.js, Vite, JavaScript, CSS |
+| **Scale** | Single-page application with modular components |
+| **Performance** | Vite-powered fast builds and HMR during development |
+| **Security** | Client-side form validation and structured data handling |
+| **Impact** | Practical application of component architecture and state management |
+| **Repository** | [Employee-management-system](https://github.com/sohelkhan006/Employee-management-system) |
+
+</details>
+
+<details>
+<summary><b>🏢 Agency.ai</b> — React.js, Vite</summary>
+<br/>
+
+A React + Vite based agency/business-style landing page project — built to practice modern frontend architecture, reusable component design, and responsive layout patterns typical of product/agency websites.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | React.js, Vite, JavaScript, CSS |
+| **Scale** | Multi-section single-page frontend application |
+| **Performance** | Optimized component structure via Vite build tooling |
+| **Security** | Standard frontend best practices |
+| **Impact** | Strengthened UI/UX composition and reusable component design |
+| **Repository** | [Agency.ai](https://github.com/sohelkhan006/Agency.ai) |
+
+</details>
+
+<details>
+<summary><b>💻 Personal Portfolio</b> — React.js, Tailwind CSS</summary>
+<br/>
+
+Designed and deployed a mobile-first personal portfolio achieving responsiveness across devices, with reusable UI components and performance optimizations for faster load times. Deployed on Netlify with production-grade configuration.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | React.js, Tailwind CSS |
+| **Scale** | Fully responsive, mobile-first single-page site |
+| **Performance** | Optimized component rendering and asset loading |
+| **Security** | Production-grade Netlify deployment configuration |
+| **Impact** | Live, public-facing developer portfolio |
+| **Repository** | [Portfolio](https://github.com/sohelkhan006/Portfolio) · [Live Site](https://soheldevportfolio.netlify.app/) |
+
+</details>
+
+<br/>
+
+---
+
+## 💼 Experience
+
+**Java Programming Intern** · CODTECH IT Solutions
+📅 Jan 2025 – Feb 2025 · 🌐 Remote
+
+Engineered modular Java applications using OOP principles to improve code maintainability, integrated REST APIs with structured exception handling, and followed the complete SDLC lifecycle from requirement analysis through deployment.
+
+- Built modular, maintainable Java applications applying core OOP principles
+- Integrated REST APIs and implemented structured exception handling for reliability
+- Followed full SDLC: requirement analysis → development → testing → deployment
+
+`Java` `OOP` `REST APIs` `Exception Handling` `SDLC`
+
+<br/>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Oracle GenAI Professional Certification | Certified in 2025, valid through 2027 |
+| AWS Educate Certification | Completed Introduction to Generative AI |
+| Multilingual Proficiency | German Language — Level A1 & A2 |
+
+</div>
+
+<br/>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+**☁️ Oracle**
+
+<img src="https://img.shields.io/badge/OCI%202025%20Certified%20Generative%20AI%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=1e1033" />
+
+**☁️ AWS**
+
+<img src="https://img.shields.io/badge/AWS%20Educate-Intro%20to%20Generative%20AI-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1e1033" />
+
+**☕ Java**
+
+<img src="https://img.shields.io/badge/Java%20Programming%20Certification-6D28D9?style=flat-square&logo=java&logoColor=white&labelColor=1e1033" />
+
+</div>
+
+<br/>
+
+---
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/YkqFpw98T2/"><img src="https://img.shields.io/badge/LeetCode-1e1033?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0f0524" /></a>
+<a href="https://www.hackerrank.com/profile/sohelkhan061984"><img src="https://img.shields.io/badge/HackerRank-1e1033?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0f0524" /></a>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sohelkhan006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" width="49%" />
+<img src="https://streak-stats.demolab.com?user=sohelkhan006&theme=tokyonight&hide_border=true&background=0f0524&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelkhan006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=E9D5FF" width="49%" />
+
+</div>
+
+<br/>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sohelkhan006&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohelkhan006&theme=react-dark&bg_color=0f0524&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sohelkhan006/sohelkhan006/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+> 💡 *Snake animation requires the [snake generator GitHub Action](https://github.com/Platane/snk) to be set up on your `sohelkhan006/sohelkhan006` profile repo — it won't render until that workflow is added.*
+
+<br/>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - System Design Fundamentals
+building:
+  - Full Stack Applications with React.js, Node.js & MongoDB
+  - Java-based backend services with clean architecture
+exploring:
+  - Competitive Programming
+  - Emerging AI/ML Tooling
+open_to:
+  - Full-Time Software Developer Roles
+```
+
+<br/>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sohelkhan060404@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1033" /></a>
+<a href="https://www.linkedin.com/in/khansohel0604"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1033" /></a>
+<a href="https://github.com/sohelkhan006"><img src="https://img.shields.io/badge/GitHub-1e1033?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0524" /></a>
+<a href="https://soheldevportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1033" /></a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*"Clean architecture today is the scalability of tomorrow."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:2e1065,100:0f0524&height=120&section=footer" width="100%"/>
+
+</div>
